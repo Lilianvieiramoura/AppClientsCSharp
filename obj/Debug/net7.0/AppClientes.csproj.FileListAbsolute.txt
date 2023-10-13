@@ -1,0 +1,15 @@
+/home/lilian/AppClientC#/AppClientes/bin/Debug/net7.0/AppClientes
+/home/lilian/AppClientC#/AppClientes/bin/Debug/net7.0/AppClientes.deps.json
+/home/lilian/AppClientC#/AppClientes/bin/Debug/net7.0/AppClientes.runtimeconfig.json
+/home/lilian/AppClientC#/AppClientes/bin/Debug/net7.0/AppClientes.dll
+/home/lilian/AppClientC#/AppClientes/bin/Debug/net7.0/AppClientes.pdb
+/home/lilian/AppClientC#/AppClientes/obj/Debug/net7.0/AppClientes.csproj.AssemblyReference.cache
+/home/lilian/AppClientC#/AppClientes/obj/Debug/net7.0/AppClientes.GeneratedMSBuildEditorConfig.editorconfig
+/home/lilian/AppClientC#/AppClientes/obj/Debug/net7.0/AppClientes.AssemblyInfoInputs.cache
+/home/lilian/AppClientC#/AppClientes/obj/Debug/net7.0/AppClientes.AssemblyInfo.cs
+/home/lilian/AppClientC#/AppClientes/obj/Debug/net7.0/AppClientes.csproj.CoreCompileInputs.cache
+/home/lilian/AppClientC#/AppClientes/obj/Debug/net7.0/AppClientes.dll
+/home/lilian/AppClientC#/AppClientes/obj/Debug/net7.0/refint/AppClientes.dll
+/home/lilian/AppClientC#/AppClientes/obj/Debug/net7.0/AppClientes.pdb
+/home/lilian/AppClientC#/AppClientes/obj/Debug/net7.0/AppClientes.genruntimeconfig.cache
+/home/lilian/AppClientC#/AppClientes/obj/Debug/net7.0/ref/AppClientes.dll
